@@ -1,3 +1,5 @@
+<img width="1918" height="944" alt="Image" src="https://github.com/user-attachments/assets/f3428212-b0be-4dbb-a6e5-c32ba4b8fe0a" />
+<img width="1915" height="941" alt="Image" src="https://github.com/user-attachments/assets/a0608117-79dd-42c6-8c1e-e228e0c9910a" />
 아래에 서술된 것들은 전부 임시 설명입니다 나중에 내용을 보충해서 작성할 예정입니다
 아직 베타예용...
 
