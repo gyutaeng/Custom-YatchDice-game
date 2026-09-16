@@ -8,7 +8,9 @@ A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고
 아무래도.. 클로드가 다 짜준 코드다보니 오픈소스로 공개 할..듯요? (내가 직접 프로그래밍 한 게 아냐)
 문의와 버그제보는 트위터 @GYU_VS로 :: https://x.com/GYU_VS 
 
+Godot 엔진으로 개발되었.읍니다
 
+게임하러가기 : https://gyutaeng.github.io/Custom-YatchDice-game/
 
 
 
