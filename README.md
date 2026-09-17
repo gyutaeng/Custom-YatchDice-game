@@ -175,3 +175,21 @@ https://gyutaeng.github.io/Custom-YatchDice-game/
 | 썸네일 | 256×256px | 긴 변 1024px, 1MB |
 | 보이스 (개당) | 상황표 참고(1~7초) | 7초, 1MB |
 | 전체 용량 | 10MB 이내 | 15MB(온라인 전송 기준) |
+
+---
+
+## 라이선스 안내
+
+이 저장소(`Custom-YatchDice-game`)에는 빌드된 웹 클라이언트만 들어 있습니다.
+전체 소스코드(서버 포함)는 [gyutaeng/yacht-dice](https://github.com/gyutaeng/yacht-dice)에서
+공개하고 있습니다.
+
+- **게임 엔진**: [Godot Engine](https://godotengine.org/) (MIT License) - 라이선스
+  전문은 [godotengine.org/license](https://godotengine.org/license/)에서 확인할
+  수 있습니다.
+- **폰트**: [Pretendard](https://github.com/orioncactus/pretendard)
+  (Copyright (c) Kil Hyung-jin, SIL Open Font License 1.1)
+- **파일 업로드 애드온**: [godot-file-access-web](https://github.com/Scrawach/godot-file-access-web)
+  (Copyright (c) Scrawach, MIT License)
+- **효과음**: Pixabay의 로열티프리 음원을 씁니다(출처 표기 의무는 없는
+  라이선스입니다).
