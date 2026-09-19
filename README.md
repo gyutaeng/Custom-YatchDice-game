@@ -9,13 +9,12 @@
 - 전적으로 바이브코딩에만 의존했기에.. 사실 상 클로드가 99% 다 개발했습니다
 - 케딩님께서 만드신 보이스 ustx 밀키트 : https://x.com/cosmos_in_cage/status/2100586112628707598
 
-## 게임하러가기
-: https://gyutaeng.github.io/Custom-YatchDice-game/
+- ### [게임하러 가기](https://gyutaeng.github.io/Custom-YatchDice-game/)
 
 ## 참고
 - Render 무료 서버를 대여하고 있어서 15분 정도 접속 안 하면 서버가 잠들어요
 - 다시 서버를 키려면 서버 접속 시도한 뒤 1분 정도 기다려주셔야 서버가 다시 깨어납니다.
-- 그래서 방을 파실 때 오래 걸리실텐데 1분 정도 기다려주시면 정상적으로 접속됩니다.
+- 서버가 잠든 상태에서 방을 개설하실 때 오래 걸리실텐데 1분 정도 기다려주시면 정상적으로 접속됩니다.
 - 게임 내에서 만드신 캐릭터의 음원 소스나 일러스트의 저작권 관련 문제는 전적으로 사용자에게 있음을 명시합니다
 - 공개한 소스 코드를 이용해 더 발전시켜 2차배포하셔도 됩니다(제발그래주세요)
 
@@ -57,8 +56,7 @@
 3. [저장]을 누르면 끝입니다. 게임을 시작할 때 캐릭터 선택 화면에서
    방금 만든 캐릭터를 고르면 바로 쓸 수 있습니다.
 4. 캐릭터를 내보내고 가져오기를 할 수 있습니다.
-
-# 캐릭터 생성의 자세한 설명은 이 쪽에서 
+5. 캐릭터 생성의 자세한 설명은 이 쪽에서 
 : [캐릭터 가이드](https://github.com/gyutaeng/yacht-dice/blob/main/docs/character_guide.md)
 
 
@@ -67,8 +65,8 @@
 # 샘플 캐릭터
 캐릭터 생성 참고용으로도, 실 사용으로도 쓸 수 있습니다. 문제가 발생하면 파일이 내려갈 수 있습니다.
 
-- [Adachi Rei](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/AdachiRei_char.zip)
-- [Defoko](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/Defoko_char.zip)
+- [아다치 레이/Adachi Rei](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/AdachiRei_char.zip)
+- [데포코/Defoko](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/Defoko_char.zip)
 ---
 
 # 라이선스 안내
