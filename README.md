@@ -34,7 +34,7 @@ A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고
 `솔직히 발끝까지 나오는 전신보다는 [허벅지까지 자른 반신]이 이쁘게 나옵니다..`
 | 항목 | 권장 크기/길이 | 최대 한도 |
 |---|---|---|
-| 스탠딩 이미지 | 세로 1400px, 비율 3:5(가로:세로) (추천 사이즈 1200×2000) | 긴 변 2048px, 4MB |
+| 스탠딩 이미지 | 1200×2000, 비율 3:5(가로:세로)  | 긴 변 2048px, 4MB |
 | 썸네일 | 256×256px | 긴 변 1024px, 1MB |
 | 보이스 (개당) | 상황표 참고(1~7초) | 7초, 1MB |
 | 전체 용량 | 10MB 이내 | 15MB(온라인 전송 기준) |
@@ -66,9 +66,9 @@ A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고
 # 샘플 캐릭터
 캐릭터 생성 참고용으로도, 실 사용으로도 쓸 수 있습니다. 문제가 발생하면 파일이 내려갈 수 있습니다.
 
-- AdachiRei_char.zip
-- Defoko_char.zip
-- DenkiSai_char.zip
+- [Adachi Rei](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/AdachiRei_char.zip)
+- [Defoko](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/Defoko_char.zip)
+- [Denki Sai](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/DenkiSai_char.zip)
 ---
 
 # 라이선스 안내
