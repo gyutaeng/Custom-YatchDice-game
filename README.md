@@ -1,8 +1,9 @@
 <img width="1918" height="944" alt="Image" src="https://github.com/user-attachments/assets/f3428212-b0be-4dbb-a6e5-c32ba4b8fe0a" />
 <img width="1915" height="941" alt="Image" src="https://github.com/user-attachments/assets/a0608117-79dd-42c6-8c1e-e228e0c9910a" />
 
-### Q.뭔 게임인가요
-A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고 야추다이스 할려고 만든 게임입니다
+`우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고 야추다이스 할려고 만든 게임입니다`
+
+캐릭터 일러스트와 보이스를 커스텀해서 요트다이스를 할 수 있는 게임입니다. 온라인 대전 지원합니다.
 - 문의와 버그제보는 트위터 @GYU_VS로 :: https://x.com/GYU_VS 
 - 개발에 사용된 것들 : claude, claude code, Godot, Render
 - 전적으로 바이브코딩에만 의존했기에.. 사실 상 클로드가 99% 다 개발했습니다
@@ -13,14 +14,14 @@ A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고
 
 ## 참고
 - Render 무료 서버를 대여하고 있어서 15분 정도 접속 안 하면 서버가 잠들어요
-- 다시 서버를 키려면 서버 접속 시도한 뒤 1분 정도 기다려주셔야 서버가 다시 깨어납니다
-- 그래서 방을 파실 때 오래 걸리실텐데 1분 정도 기다려주시면 제대로 들어가질 거예여!!
+- 다시 서버를 키려면 서버 접속 시도한 뒤 1분 정도 기다려주셔야 서버가 다시 깨어납니다.
+- 그래서 방을 파실 때 오래 걸리실텐데 1분 정도 기다려주시면 정상적으로 접속됩니다.
 - 게임 내에서 만드신 캐릭터의 음원 소스나 일러스트의 저작권 관련 문제는 전적으로 사용자에게 있음을 명시합니다
 - 공개한 소스 코드를 이용해 더 발전시켜 2차배포하셔도 됩니다(제발그래주세요)
 
 # 업데이트 노트
 - 2026.09.17 - 공개
-- 2026.09.19 - 샘플 캐릭터(아다치 레이, 데포코, 덴키 사이) 업로드
+- 2026.09.19 - 샘플 캐릭터(아다치 레이, 데포코) 업로드
 
 
 
@@ -31,7 +32,7 @@ A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고
 
 ### 요약표
 
-`솔직히 발끝까지 나오는 전신보다는 [허벅지까지 자른 반신]이 이쁘게 나옵니다..`
+`발끝까지 나오는 전신보다는 [허벅지까지 자른 반신]이 이쁘게 나옵니다`
 | 항목 | 권장 크기/길이 | 최대 한도 |
 |---|---|---|
 | 스탠딩 이미지 | 1200×2000, 비율 3:5(가로:세로)  | 긴 변 2048px, 4MB |
@@ -58,7 +59,7 @@ A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고
 4. 캐릭터를 내보내고 가져오기를 할 수 있습니다.
 
 # 캐릭터 생성의 자세한 설명은 이 쪽에서 
-: [docs/character_guide.md](https://github.com/gyutaeng/yacht-dice/blob/main/docs/character_guide.md)
+: [캐릭터 가이드](https://github.com/gyutaeng/yacht-dice/blob/main/docs/character_guide.md)
 
 
 
@@ -68,7 +69,6 @@ A.우타우러 트친들끼리 가내 자음원 보이스랑 일러 걸어놓고
 
 - [Adachi Rei](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/AdachiRei_char.zip)
 - [Defoko](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/Defoko_char.zip)
-- [Denki Sai](https://github.com/gyutaeng/Custom-YatchDice-game/blob/main/SampleChar/DenkiSai_char.zip)
 ---
 
 # 라이선스 안내
